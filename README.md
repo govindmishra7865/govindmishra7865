@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Govind Mishra 👋
 
-<!--
-**govindmishra7865/govindmishra7865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Engineer specializing in Kotlin, Jetpack Compose, and Clean Architecture.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- Coroutines & Flow
+- Retrofit
+- Firebase
+- Bluetooth (BLE)
+- React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- Clover POS Payment Integration
+- IoT Apps (Water Heater & Smart Toothbrush)
+- Ride Share Taxi Application (Real-Time Tracking)
+- Dating Application (React Native - Real-Time Chat)
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/govindmishra786/
